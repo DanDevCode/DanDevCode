@@ -13,6 +13,6 @@ with API and with Artificial Intelligence (AI) I hope to become a great develope
 
 ![Oops, the image could not be loaded correctly.](https://i.ytimg.com/vi/7TezZ2JbvZs/maxresdefault.jpg)
 
----
-**NOTA:** Este es un cuadro de alerta.
----
+<div class="warning">
+  <p>Este es un cuadro de texto.</p>
+</div>
