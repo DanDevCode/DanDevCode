@@ -10,10 +10,13 @@ with API and with Artificial Intelligence (AI) I hope to become a great develope
 ### Extension Projects 📦
 
 1. [Custom Edge](https://github.com/DanDevCode/Edge-Custom-Extension-Code): Extension for Microsoft Edge.
+#### Version 🔢
+
+![Oops, it seems that the star counter is not working well.](https://img.shields.io/github/manifest-json/v/DanDevCode/Edge-Custom-Extension-Code?label=Version)
 
 ## Mastered programming languages 💼
 
 ![Oops, the image could not be loaded correctly.](https://i.ytimg.com/vi/7TezZ2JbvZs/maxresdefault.jpg)
 
 ## Extra 🌀
-![Oops, it seems that the star counter is not working well.](https://img.shields.io/github/stars/DanDevCode?affiliations=OWNER&color=yellow&label=Stars)
+![Oops, it seems that the star counter is not working well.](https://img.shields.io/github/stars/DanDevCode?affiliations=OWNER&color=yellow&label=Stars) 
