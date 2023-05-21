@@ -9,4 +9,6 @@ with API and with Artificial Intelligence (AI) I hope to become a great develope
 
 1. [Custom Edge](https://github.com/DanDevCode/Edge-Custom-Extension-Code): Extension for Microsoft Edge.
 
-## Mastered programming languages :
+## Mastered programming languages 💼
+
+![Oops, the image could not be loaded correctly.](https://i.ytimg.com/vi/7TezZ2JbvZs/maxresdefault.jpg)
