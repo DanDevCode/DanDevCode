@@ -13,4 +13,4 @@ with API and with Artificial Intelligence (AI) I hope to become a great develope
 
 ![Oops, the image could not be loaded correctly.](https://i.ytimg.com/vi/7TezZ2JbvZs/maxresdefault.jpg)
 
-[![Estado del Proyecto](https://img.shields.io/badge/Estado-Activo-brightgreen)](link-al-estado-del-proyecto)
+https://img.shields.io/endpoint?label=Follow%20me&style=for-the-badge&url=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fmodules%2Flogos_page%2FGitHub-Mark.png
