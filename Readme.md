@@ -12,7 +12,7 @@ with API and with Artificial Intelligence (AI) I hope to become a great develope
 1. [Custom Edge](https://github.com/DanDevCode/Edge-Custom-Extension-Code): Extension for Microsoft Edge.
 #### Information 📚
 
-![Oops, it seems that the star counter is not working well.](https://img.shields.io/github/manifest-json/v/DanDevCode/Edge-Custom-Extension-Code?label=Version)
+![Oops, it seems that the star counter is not working well.](https://img.shields.io/github/manifest-json/v/DanDevCode/Edge-Custom-Extension-Code?label=Version) ![Oops, it seems that the star counter is not working well.](https://img.shields.io/github/languages/count/DanDevCode/Edge-Custom-Extension-Code?color=gray&label=Languages)
 
 ## Mastered programming languages 💼
 
