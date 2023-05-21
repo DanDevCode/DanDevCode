@@ -13,4 +13,4 @@ with API and with Artificial Intelligence (AI) I hope to become a great develope
 
 ![Oops, the image could not be loaded correctly.](https://i.ytimg.com/vi/7TezZ2JbvZs/maxresdefault.jpg)
 
-[![Ejemplo](https://img.shields.io/badge/Texto-Azul%20y%20Blanco-Blue)](Enlace_del_Badge)
+[![Estado del Proyecto](https://img.shields.io/badge/Estado-Activo-brightgreen)](link-al-estado-del-proyecto)
