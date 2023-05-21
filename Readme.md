@@ -7,6 +7,8 @@ with API and with Artificial Intelligence (AI) I hope to become a great develope
 
 ## Important Projects 🧰
 
+### Extension Projects 📦
+
 1. [Custom Edge](https://github.com/DanDevCode/Edge-Custom-Extension-Code): Extension for Microsoft Edge.
 
 ## Mastered programming languages 💼
