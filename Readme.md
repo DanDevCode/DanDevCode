@@ -12,6 +12,3 @@ with API and with Artificial Intelligence (AI) I hope to become a great develope
 ## Mastered programming languages 💼
 
 ![Oops, the image could not be loaded correctly.](https://i.ytimg.com/vi/7TezZ2JbvZs/maxresdefault.jpg)
-`a`
-
-    Esto es una línea de código
