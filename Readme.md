@@ -16,8 +16,8 @@ with API and with Artificial Intelligence (AI) I hope to become a great develope
 
 ## Mastered programming languages 💼
 
-![Oops, the image could not be loaded correctly.](https://i.ytimg.com/vi/7TezZ2JbvZs/maxresdefault.jpg)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Extra 🌀
-![Oops, it seems that the star counter is not working well.](https://img.shields.io/github/stars/DanDevCode?affiliations=OWNER&color=yellow&label=Stars) 
-![Oops, it seems that the star counter is not working well.](https://komarev.com/ghpvc/?username=DanDevCode&color=blueviolet)
+![Oops, it seems that the star counter is not working well.](https://img.shields.io/github/stars/DanDevCode?affiliations=OWNER&color=yellow&label=Stars) ![Oops, it seems that the star counter is not working well.](https://komarev.com/ghpvc/?username=DanDevCode&color=blueviolet)
