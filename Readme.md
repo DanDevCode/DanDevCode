@@ -20,3 +20,4 @@ with API and with Artificial Intelligence (AI) I hope to become a great develope
 
 ## Extra 🌀
 ![Oops, it seems that the star counter is not working well.](https://img.shields.io/github/stars/DanDevCode?affiliations=OWNER&color=yellow&label=Stars) 
+![Oops, it seems that the star counter is not working well.](https://komarev.com/ghpvc/?username=DanDevCode&color=blueviolet)
